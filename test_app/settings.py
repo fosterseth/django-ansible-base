@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'ansible_base.resource_registry',
     'ansible_base.rbac',
     'test_app',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [

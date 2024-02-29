@@ -11,6 +11,7 @@ If you are attempting to start test_app for the first time in a fresh environmen
 
 ```
 pip install -r requirements/requirements_all.txt
+pip install -r test_app/requirements.txt
 ```
 
 # Initialize the test app
